@@ -12,7 +12,7 @@ Hardware Details:
 
 **Above 4G Decoding is off**
 
-<img width="640" height="360" alt="Снимок экрана 2025-08-16 в 22 04 01" src="https://github.com/user-attachments/assets/5846d328-d23f-4340-987a-dc113c4fd97c" />
+<img width="640" height="360" alt="Снимок экрана 2025-08-16 в 22 04 01" src="https://github.com/user-attachments/assets/75a49bc8-84ae-476c-83fc-6ba0b22d9066" />
 
 <img width="640" height="360" alt="Снимок экрана 2025-08-16 в 22 05 42" src="https://github.com/user-attachments/assets/24eaeba6-be19-43d0-a239-15846f3ac853" />
 
