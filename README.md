@@ -2,13 +2,13 @@
 OpenCore version - 1.0.5
 
 Hardware Details: 
-• Platform - Intel LGA 2011, X79 Chipset, Sandy Bridge-E
-• Motherboard - Atermiter X79G v1.2 - 1.3
-• BIOS - X79GN006
-• Processor - Intel® Xeon® E5-2640 0
-• Graphics - NVIDIA GeForce GTX 1050 Ti
-• Memory - 16GB DDR3 1600 MHz (4x4)
-• Ethernet - RTL8111
+* Platform - Intel LGA 2011, X79 Chipset, Sandy Bridge-E
+* Motherboard - Atermiter X79G v1.2 - 1.3
+* BIOS - X79GN006
+* Processor - Intel® Xeon® E5-2640 0
+* Graphics - NVIDIA GeForce GTX 1050 Ti
+* Memory - 16GB DDR3 1600 MHz (4x4)
+* Ethernet - RTL8111
 
 **Above 4G Decoding is off**
 
