@@ -8,7 +8,7 @@ Hardware Details:
 * Processor - Intel® Xeon® E5-2640 0
 * Graphics - NVIDIA GeForce GTX 1050 Ti
 * Memory - 16GB DDR3 1600 MHz (4x4)
-* Ethernet - RTL8111
+* Ethernet - Realtek RTL8105E
 
 **Above 4G Decoding is off**
 
